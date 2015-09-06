@@ -1,4 +1,4 @@
 ktraghavendra.github.io
 ==========================
 
-Documentation on block, IO, vfs and related categories
+Documentation on block, IO, vfs, numa related categories
